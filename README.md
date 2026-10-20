@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Palhares's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjunior&show_icons=true&theme=dracula)
+![Palhares's GitHub stats](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
 
 <!--
 **xjunior/xjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
